@@ -1,52 +1,52 @@
-<h1 align="center">👋 Hi, I'm Kevin Dai</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Engineer | Chemical Engineering @ UofT</h3>
+<div align="center">
+
+# Kevin Dai
+
+**Chemical engineering · AI engineering · AI for science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+[Scientific tools](#scientific-tools) · [Other projects](#other-projects) · [Toolbox](#toolbox)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+I'm a Chemical Engineering student at the **University of Toronto**, building software at the intersection of scientific research, machine learning, and practical applications.
 
-### 👨‍💻 Languages
-<p>
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-Strong-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-iOS-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-</p>
+I'm interested in making research easier to inspect and reproduce: tracing data to its sources, testing what models can generalize to, and preserving the lessons from experiments that did not work.
 
-### 🌐 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+## Scientific tools
 
-### 🔧 Backend
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+| Project | What it does |
+| :--- | :--- |
+| [SciML Workbench](https://github.com/yukevindai/sciml-workbench) | A workspace connecting scientific ML workflows and companion tools. |
+| [ChemData Auditor + SciSplit](https://github.com/yukevindai/chemdata-auditor) | Dataset audits and scientific holdouts for chemistry and materials ML. |
+| [Scientific Evidence Engine](https://github.com/yukevindai/scientific-evidence-engine) | Figure digitization with uncertainty, provenance, and verified exports. |
+| [ChemE ML Benchmarks](https://github.com/yukevindai/cheme-ml-benchmarks) | Reproducible model comparisons with explicit datasets and evaluation splits. |
+| [Experiment Failure Memory](https://github.com/yukevindai/experiment-failure-memory) | A private, self-hosted workspace for unsuccessful experiments and recovery attempts. |
+| [OpenChE](https://github.com/yukevindai/OpenChE) | The starting point for an open chemical engineering discovery project. |
 
-### 🤖 AI / Data
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-</p>
+## Other projects
 
-### ☁️ Dev & Deployment
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
-</p>
+| Project | Focus |
+| :--- | :--- |
+| [Gojee](https://github.com/yukevindai/Gojee) | The concluded web prototype of an outing planner, with development moved to a native app. |
+| [DidItChangeYet](https://github.com/yukevindai/DidItChangeYet) | A Go tool for monitoring URLs and sending change alerts. |
+| [Expecta](https://github.com/yukevindai/Cursor-Hackathon-July-2026) | A hackathon prototype for barcode lookup and ingredient information. |
+| [UofT ChemE MEng website](https://github.com/yukevindai/UofT-ChemE-MEng-Website-2026) | A static graduate-program website design/demo. |
 
+## Toolbox
 
+| Area | Technologies |
+| :--- | :--- |
+| Languages | Python, Java, JavaScript, TypeScript, Swift |
+| Scientific computing and ML | PyTorch, scikit-learn, NumPy, pandas |
+| Web interfaces | React, Next.js, Tailwind CSS, HTML, CSS |
+| Backend and data | FastAPI, Node.js, Express, PostgreSQL, Firebase |
+| Development | Git, GitHub, Docker, Vercel |
+
+Explore my repositories at [github.com/yukevindai](https://github.com/yukevindai).
